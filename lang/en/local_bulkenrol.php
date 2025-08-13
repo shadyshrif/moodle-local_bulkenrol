@@ -25,7 +25,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['bulkenrol:enrolusers'] = 'Use user bulk enrolment';
-$string['bulkenrol_form_intro'] = 'Here, you can bulk enrol users to your course. A user to be enrolled is identified by his e-mail address stored in his Moodle account.';
+$string['bulkenrol_form_intro'] = 'Here, you can bulk enrol users to your course. A user to be enrolled is identified by the e-mail address stored in their Moodle account.';
 $string['enrol_users'] = 'Enrol users';
 $string['enrol_users_successful'] = 'User bulk enrolment successful';
 $string['enrolinfo_headline'] = 'Enrolment details';
@@ -71,5 +71,5 @@ $string['user_groups'] = 'Group membership';
 $string['user_groups_already'] = 'User is already group member';
 $string['user_groups_yes'] = 'User will be added to group';
 $string['usermails'] = 'List of e-mail addresses';
-$string['usermails_help'] = 'To enrol an existing Moodle user into this course, add his e-mail address to this form, one user / e-mail address per line.<br /><br />Example:<br />alice@example.com<br />bob@example.com<br /><br />Optionally, you are able to create groups and add the enrolled users to the groups. All you have to do is to add a heading line with a hash sign and the group\'s name, separating the list of users.<br /><br />Example:<br /># Group 1<br />alice@example.com<br />bob@example.com<br /># Group 2<br />carol@example.com<br />dave@example.com';
+$string['usermails_help'] = 'To enrol an existing Moodle user into this course, add their e-mail address to this form, one user / e-mail address per line.<br /><br />Example:<br />alice@example.com<br />bob@example.com<br /><br />Optionally, you are able to create groups and add the enrolled users to the groups. All you have to do is to add a heading line with a hash sign and the group\'s name, separating the list of users.<br /><br />Example:<br /># Group 1<br />alice@example.com<br />bob@example.com<br /># Group 2<br />carol@example.com<br />dave@example.com';
 $string['users_to_enrol_in_course'] = 'Users to be enrolled into the course';
